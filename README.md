@@ -1,4 +1,4 @@
-# npm package for angular-resource `$resource`
+# npm package for $resource
 
 This is a package for [`$resource`](https://docs.angularjs.org/api/ngResource/service/$resource).
 
@@ -6,7 +6,7 @@ See http://angularjs.org for everything else.
 
 ## Usage
 
-	npm install --save angular-resource
+	npm install --save ng-resource
 
 In your client application
 
