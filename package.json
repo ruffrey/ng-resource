@@ -1,6 +1,6 @@
 {
-  "name": "ngResource",
-  "version": "0.0.1",
+  "name": "ng-resource",
+  "version": "1.2.18",
   "description": "npm package for angular $resource",
   "main": "index.js",
   "scripts": {
