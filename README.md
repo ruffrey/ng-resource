@@ -16,3 +16,6 @@ then you can use it like so:
 
 	var myapp = angular.module('myapp', '$resource');
 
+## Test
+
+	npm test
