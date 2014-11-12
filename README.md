@@ -14,7 +14,7 @@ In your client application
 
 then you can use it like so:
 
-	var myapp = angular.module('myapp', '$resource');
+	var myapp = angular.module('myapp', 'ngResource');
 
 ## Test
 
