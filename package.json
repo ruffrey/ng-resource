@@ -1,10 +1,10 @@
 {
   "name": "ng-resource",
-  "version": "1.2.18",
+  "version": "1.3.2",
   "description": "npm package for angular $resource",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/ruffrey/ng-resource/issues"
   },
-  "homepage": "https://github.com/ruffrey/ng-resource"
+  "homepage": "https://github.com/ruffrey/ng-resource",
+  "devDependencies": {
+    "jshint": "^2.5.10",
+    "mocha": "^2.0.1",
+    "should": "^4.3.0"
+  }
 }
